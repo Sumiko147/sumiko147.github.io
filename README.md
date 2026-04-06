@@ -13,8 +13,7 @@ Engineering, Algorithms and Data Structures, and Databases.
 
 ---
 ## Enhancement One: Software Design and Engineering
-
-[View Original Artifact](https://github.com/Sumiko147/cs465-fullstack/tree/main) | [View Enhanced Artifact](https://github.com/Sumiko147/cs465-fullstack/tree/CS499-Capstone)
+[View Original Artifact](https://github.com/Sumiko147/cs465-fullstack/tree/CS499_Capstone_Initial) | [View Enhanced Artifact](https://github.com/Sumiko147/cs465-fullstack/tree/CS499_Enhancement_One)
 
 Travlr Getaways is a full-stack travel booking application developed 
 during CS-465 at SNHU. It is built on the MEAN stack with Passport.js 
