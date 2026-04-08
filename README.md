@@ -23,8 +23,6 @@ This code review presents a walkthrough of the Travlr Getaways application prior
 [View Original Artifact](https://github.com/Sumiko147/cs465-fullstack/tree/CS499_Capstone_Initial)  
 [View Enhanced Artifact](https://github.com/Sumiko147/cs465-fullstack/tree/CS499_Enhancement_One)
 
-**Technologies:** Node.js · Express · MongoDB · Angular · Passport.js · JSON Web Tokens  
-
 ---
 
 **Artifact Overview**  
