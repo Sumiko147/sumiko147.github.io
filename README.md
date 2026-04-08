@@ -20,8 +20,7 @@ This code review presents a walkthrough of the Travlr Getaways application prior
 
 ## Enhancement One: Software Design and Engineering  
 
-[View Original Artifact](https://github.com/Sumiko147/cs465-fullstack/tree/CS499_Capstone_Initial)  
-[View Enhanced Artifact](https://github.com/Sumiko147/cs465-fullstack/tree/CS499_Enhancement_One)
+[View Original Artifact](https://github.com/Sumiko147/cs465-fullstack/tree/CS499_Capstone_Initial)  |    [View Enhanced Artifact](https://github.com/Sumiko147/cs465-fullstack/tree/CS499_Enhancement_One)
 
 ---
 
