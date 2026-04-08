@@ -14,14 +14,14 @@ This ePortfolio highlights my work in full-stack web development, with a focus o
 
 This code review presents a walkthrough of the Travlr Getaways application prior to enhancement. It identifies key opportunities for improvement in structure, logic, security, and efficiency, and outlines planned enhancements across software design, algorithms, and database functionality.
 
-🔗 [Watch the Code Review on YouTube](https://youtu.be/NoSrbMSOoqA)
+[Watch the Code Review on YouTube](https://youtu.be/NoSrbMSOoqA)
 
 ---
 
 ## Enhancement One: Software Design and Engineering  
 
-🔗 [View Original Artifact](https://github.com/Sumiko147/cs465-fullstack/tree/CS499_Capstone_Initial)  
-🔗 [View Enhanced Artifact](https://github.com/Sumiko147/cs465-fullstack/tree/CS499_Enhancement_One)
+[View Original Artifact](https://github.com/Sumiko147/cs465-fullstack/tree/CS499_Capstone_Initial)  
+[View Enhanced Artifact](https://github.com/Sumiko147/cs465-fullstack/tree/CS499_Enhancement_One)
 
 **Technologies:** Node.js · Express · MongoDB · Angular · Passport.js · JSON Web Tokens  
 
