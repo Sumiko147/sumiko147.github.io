@@ -81,7 +81,7 @@ MongoDB aggregation pipelines were implemented to generate summary statistics an
 
 These pipelines execute concurrently using Promise.all, improving performance by avoiding sequential database calls. The results are exposed through a protected API endpoint and displayed in an Angular dashboard designed for non-technical users.
 
-The data model was also improved by introducing a structured numeric rating field, populated through a migration script that extracts values from existing string data. Validation is enforced at both the schema and application levels to ensure consistency.
+The data model was also improved by introducing a structured numeric rating field, populated through a migration script that extracts values from existing string data. Validation is enforced at both the schema and application levels to ensure consistency. This enhancement strengthens the application’s ability to support data-driven decision-making through efficient aggregation and clear presentation of reporting data.
 
 **Course Outcomes**  
 Outcome 1 was met by designing a dashboard that communicates complex data clearly to non-technical users, supporting organizational decision-making.
