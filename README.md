@@ -10,7 +10,7 @@ This ePortfolio highlights my work in full-stack web development, with a focus o
 
 ---
 
-## Featured Artifact: Travlr Getaways  
+## ✈️ Featured Artifact: Travlr Getaways  
 
 Travlr Getaways is a full-stack travel booking application developed during CS-465 at SNHU. It is built on the MEAN stack (MongoDB, Express, Angular, Node.js) and supports both a public-facing website and an administrative interface.
 
@@ -29,7 +29,7 @@ This code review presents a walkthrough of the Travlr Getaways application prior
 ## 🛠️ Enhancement One: Software Design and Engineering  
 
 **Artifacts**  
-View the 🔗 [original artifact](https://github.com/Sumiko147/cs465-fullstack/tree/CS499_Capstone_Initial) | 🔗 [enhanced version](https://github.com/Sumiko147/cs465-fullstack/tree/CS499_Enhancement_One)
+🔗 [View Original Artifact](https://github.com/Sumiko147/cs465-fullstack/tree/CS499_Capstone_Initial) | 🔗 [View Enhanced Version](https://github.com/Sumiko147/cs465-fullstack/tree/CS499_Enhancement_One)
 
 ---
 
@@ -47,7 +47,7 @@ Course Outcomes 4 and 5 were met through the implementation of JWT role claims t
 ## 📊 Enhancement Two: Algorithms and Data Structures  
 
 **Artifacts**  
-View the 🔗 [original artifact](https://github.com/Sumiko147/cs465-fullstack/tree/CS499_Capstone_Initial) | 🔗 [enhanced version](https://github.com/Sumiko147/cs465-fullstack/tree/CS499_Enhancement_Two)
+🔗 [View Original Artifact](https://github.com/Sumiko147/cs465-fullstack/tree/CS499_Capstone_Initial) | 🔗 [View Enhanced Version](https://github.com/Sumiko147/cs465-fullstack/tree/CS499_Enhancement_Two)
 
 ---
 
@@ -69,7 +69,7 @@ Course Outcome 4 was reinforced through the use of MongoDB’s native query capa
 ## 🗄️ Enhancement Three: Databases  
 
 **Artifacts**  
-View the 🔗 [original artifact](https://github.com/Sumiko147/cs465-fullstack/tree/CS499_Capstone_Initial) | 🔗 [enhanced version](https://github.com/Sumiko147/cs465-fullstack/tree/CS499_Enhancement_Three)
+🔗 [View Original Artifact](https://github.com/Sumiko147/cs465-fullstack/tree/CS499_Capstone_Initial) | 🔗 [View Enhanced Version](https://github.com/Sumiko147/cs465-fullstack/tree/CS499_Enhancement_Three)
 
 ---
 
