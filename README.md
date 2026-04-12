@@ -22,14 +22,14 @@ This application serves as the foundation for all enhancements in this portfolio
 
 This code review presents a walkthrough of the Travlr Getaways application prior to enhancement. It identifies key opportunities for improvement in structure, logic, security, and efficiency, and outlines planned enhancements across software design, algorithms, and database functionality.
 
-[Watch the Code Review on YouTube](https://youtu.be/NoSrbMSOoqA)
+🔗 [Watch the Code Review on YouTube](https://youtu.be/NoSrbMSOoqA)
 
 ---
 
-## Enhancement One: Software Design and Engineering  
+## 🛠️ Enhancement One: Software Design and Engineering  
 
 **Artifacts**  
-View the [original artifact](https://github.com/Sumiko147/cs465-fullstack/tree/CS499_Capstone_Initial) | [enhanced version](https://github.com/Sumiko147/cs465-fullstack/tree/CS499_Enhancement_One)
+View the 🔗 [original artifact](https://github.com/Sumiko147/cs465-fullstack/tree/CS499_Capstone_Initial) | 🔗 [enhanced version](https://github.com/Sumiko147/cs465-fullstack/tree/CS499_Enhancement_One)
 
 ---
 
@@ -44,10 +44,10 @@ Course Outcomes 4 and 5 were met through the implementation of JWT role claims t
 
 ---
 
-## Enhancement Two: Algorithms and Data Structures  
+## 📊 Enhancement Two: Algorithms and Data Structures  
 
 **Artifacts**  
-View the [original artifact](https://github.com/Sumiko147/cs465-fullstack/tree/CS499_Capstone_Initial) | [enhanced version](https://github.com/Sumiko147/cs465-fullstack/tree/CS499_Enhancement_Two)
+View the 🔗 [original artifact](https://github.com/Sumiko147/cs465-fullstack/tree/CS499_Capstone_Initial) | 🔗 [enhanced version](https://github.com/Sumiko147/cs465-fullstack/tree/CS499_Enhancement_Two)
 
 ---
 
@@ -66,10 +66,10 @@ Course Outcome 4 was reinforced through the use of MongoDB’s native query capa
 
 ---
 
-## Enhancement Three: Databases  
+## 🗄️ Enhancement Three: Databases  
 
 **Artifacts**  
-View the [original artifact](https://github.com/Sumiko147/cs465-fullstack/tree/CS499_Capstone_Initial) | [enhanced version](https://github.com/Sumiko147/cs465-fullstack/tree/CS499_Enhancement_Three)
+View the 🔗 [original artifact](https://github.com/Sumiko147/cs465-fullstack/tree/CS499_Capstone_Initial) | 🔗 [enhanced version](https://github.com/Sumiko147/cs465-fullstack/tree/CS499_Enhancement_Three)
 
 ---
 
