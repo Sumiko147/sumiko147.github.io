@@ -14,11 +14,27 @@ This ePortfolio highlights my work in full-stack web development, with a focus o
 
 Travlr Getaways is a full-stack travel booking application developed during CS-465 at SNHU. It is built on the MEAN stack (MongoDB, Express, Angular, Node.js) and supports both a public-facing website and an administrative interface.
 
-This application serves as the foundation for all enhancements in this portfolio, demonstrating progressive improvements across software design, algorithms and data structures, and database functionality.
+This application serves as the foundation for all enhancements in this portfolio, demonstrating progressive improvements across software design, algorithms, data structures, and database functionality.
 
 ---
 
-## Code Review
+## 🧭 Professional Self-Assessment
+
+When I first entered the SNHU computer science program, my goal was primarily to earn the degree. I was already working in the field and viewed the program as something similar to a certification, a way to formalize skills I had already developed through experience. Looking back now, that perspective has changed in ways I did not expect. While I may not point to a single dramatic increase in technical ability, I have developed a far more well-rounded understanding of computer science as a discipline. The program shifted my thinking from focusing on individual tools or skills to understanding how systems work as a whole, including how design decisions, data handling, security, and user needs all connect. That broader perspective has had a lasting impact on how I approach software development and problem solving.
+
+One of the most significant changes in my development has been my approach to projects, which now reflects a broader perspective. Earlier in my career, I focused primarily on solving the immediate technical problem at hand. Through this program, I developed a stronger awareness of the full software development lifecycle and the importance of approaching solutions with that larger context in mind. Courses like CS-255 challenged me to think beyond code and consider how to communicate design decisions effectively to both technical and non-technical stakeholders. I also became more comfortable communicating technical ideas clearly to different audiences.
+
+Working through the capstone milestones also reinforced the value of collaboration and iterative feedback. The structured review process with my instructor helped refine my ability to clearly communicate design decisions and improve documentation. This experience mirrors real-world code review practices, where feedback shapes the quality of the final product.
+
+Throughout the capstone, I strengthened my technical skills in ways that directly connect to real-world applications. Implementing role-based access control reinforced the importance of security and least-privilege design. Moving sorting logic to the database level enabled a more efficient, scalable approach to handling data. The use of aggregation pipelines and the development of a reporting dashboard expanded my understanding of how data can be transformed into meaningful information for decision-making.
+
+The Travlr Getaways application was selected as the central artifact for this portfolio because it represents a realistic, full-stack system with meaningful opportunities for improvement. Each enhancement builds on the same application, demonstrating a progression from foundational functionality to more advanced capabilities in security, data processing, and database design. Together, these artifacts reflect a deliberate focus on real-world problem solving and the development of scalable, maintainable software solutions.
+
+These experiences have strengthened my ability to approach software development with a balance of technical execution, system-level thinking, and clear communication.
+
+---
+
+## 🔍 Code Review
 
 This code review presents a walkthrough of the Travlr Getaways application prior to enhancement. It identifies key opportunities for improvement in structure, logic, security, and efficiency, and outlines planned enhancements across software design, algorithms, and database functionality.
 
@@ -87,12 +103,6 @@ The data model was also improved by introducing a structured numeric rating fiel
 Outcome 1 was met by designing a dashboard that communicates complex data clearly to non-technical users, supporting organizational decision-making.
 
 Outcome 2 was met through the structured presentation of data and well-documented aggregation logic, ensuring both usability and maintainability.
-
----
-
-### Upcoming Enhancements
-
-A professional self-assessment will complete the portfolio by reflecting on technical growth and career direction.
 
 ---
 
